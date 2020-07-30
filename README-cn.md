@@ -70,12 +70,6 @@ s代表升调，f代表降调。
 ![Alipay](donation/1596023436196.jpg) ![Wechat](donation/mm_facetoface_collect_qrcode_1596023326550.png)
 
 
-
-
-
-
-
-
 ## Copyright
 
 可以转载，转载请注明出处。我相信来GitHub的人都是有版权意识的。正因为是开源，大家才更乐意分享。
