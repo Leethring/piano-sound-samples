@@ -4,23 +4,22 @@
 
 Tags: #Piano #SoundSample #Keyboard 
 
-A collection of piano 88 key sound samples with its related staff and keyboard.
+A collection of piano 88 key sound samples with its related staffs.
 
-For piano learning and memory, I collect all piano sound samples. This repository is for someone who finds himself (or herself) lacking music sensitivity, always relies on the piano staff, and plays keyboard with staff, not music&mdash;em...I mean myself, hahaha.
+For piano learning and memory, I collect all piano sound samples. This repository is for someone who finds them lacking music sensitivity, always relies on the piano staff, and plays keyboard with staff, not music&mdash;em...I mean myself, hahaha.
 
-If you like me to want to improve your piano listening skill and want to link the sound to the key or the stall, this repository is for you. Also, if you just need these sound databases, you can directly download them. 
+If you like me want to improve your piano listening skill and want to link the sound to the key or the staff, this repository is for you. Also, if you just need this sound database, you can directly download them. 
 
-For memory, I have created an Anki deck package, if you are familiar with Anki, just use it. If you are not familiar with Anki, I recommend it for you, it's really a good tool for memory. Here is its website, you can download it from the web [Anki](https://apps.ankiweb.net/). I also provide a useful tutorial web: [leananki](https://leananki.com/) 
+For memory, I have created an Anki deck package, if you are familiar with Anki, just use it. 
 
-If this repository helped you, please star it. If you find some missed key, or mistake, please let me know it, or commit it directly, think you.
 
-## Sound Samples Download
+## Download Sound Samples
 
 All sound samples are in the [sound keyboard staff](https://github.com/Leethring/piano_88_key_sound_sample/tree/master/sound_keyboard_staff) directory, you can click `Download` badge to download this repository.
 
-## Name Rule
+## Naming Rule
 
-When you find the mp3 file, you may feel WTF. For the simplicty of creating, I simplify the name fo file. Below I will explain it.
+For the simplicty of creating, I simplify the name fo file. I will explain it below. 
 
 The name is base on this picture:
 ![piano keyboard](Piano%20Keyboard.png)
@@ -28,7 +27,7 @@ The name is base on this picture:
 Every key relates a name with a sequence:
 A_2 B_2 C_1 D_1 E_1 F_1 G_1 A_1 B_1 C D E F G A B c d e f g a b c^1 d^1 e^1 f^1 g^1 a^1 b^1 c^2 d^2 e^2 f^2 g^2 a^2 b^2 c^3 d^3 e^3 f^3 g^3 a^3 b^3 c^4 d^4 e^4 f^4 g^4 a^4 b^4 c^5                         
 
-In the normal situation, the file name is the same as the key name but not every. 
+Normally, the file name is the same as the key name:
 1. Because file with the uppercase letter is the same as lowercase, so when I name a file with a lowercase letter only, like 'a', I name it with 'aa'.
 2. You can find there is an overlapping area in Picture, I also record it, the G clef part file name will add 'high'.
 3. After b key, I neglect the superscript identify `^`, name the file with character and number, like 'a1'
