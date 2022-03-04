@@ -58,9 +58,3 @@ There are about 400 cards. We have 4 types of questions.
 3. Give you a sound, answer the related staff.
 4. Give you a sound with a character 'k', which means 'keyboard', answer the related key.
 
-## Donation
-
-This is my "first" repository with some useful usage, I know it's imperfect. If you like, you can donate me 1 penny, or 0.1 pence, or 0.01 pence...as you like.
-
-Alipay and Wechat:
-![Alipay](donation/1596023436196.jpg) ![Wechat](donation/mm_facetoface_collect_qrcode_1596023326550.png)
